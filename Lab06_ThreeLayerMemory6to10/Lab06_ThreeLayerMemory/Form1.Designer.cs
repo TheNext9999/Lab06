@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -48,6 +49,12 @@
             this.dgvSanPham = new System.Windows.Forms.DataGridView();
             this.lblTongTien = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
+            this.tvDanhMuc = new System.Windows.Forms.TreeView();
+            this.cmsTree = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.cboDanhMuc = new System.Windows.Forms.ComboBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvSanPham)).BeginInit();
             this.SuspendLayout();
             // 
@@ -81,7 +88,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(244, 66);
+            this.label4.Location = new System.Drawing.Point(237, 67);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(49, 13);
             this.label4.TabIndex = 3;
@@ -90,7 +97,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(451, 69);
+            this.label5.Location = new System.Drawing.Point(445, 67);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(49, 13);
             this.label5.TabIndex = 4;
@@ -99,7 +106,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(454, 113);
+            this.label6.Location = new System.Drawing.Point(448, 117);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(46, 13);
             this.label6.TabIndex = 5;
@@ -207,17 +214,17 @@
             // dgvSanPham
             // 
             this.dgvSanPham.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvSanPham.Location = new System.Drawing.Point(17, 152);
+            this.dgvSanPham.Location = new System.Drawing.Point(15, 201);
             this.dgvSanPham.Name = "dgvSanPham";
             this.dgvSanPham.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvSanPham.Size = new System.Drawing.Size(366, 191);
+            this.dgvSanPham.Size = new System.Drawing.Size(418, 200);
             this.dgvSanPham.TabIndex = 17;
             this.dgvSanPham.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // lblTongTien
             // 
             this.lblTongTien.AutoSize = true;
-            this.lblTongTien.Location = new System.Drawing.Point(16, 364);
+            this.lblTongTien.Location = new System.Drawing.Point(13, 441);
             this.lblTongTien.Name = "lblTongTien";
             this.lblTongTien.Size = new System.Drawing.Size(129, 13);
             this.lblTongTien.TabIndex = 18;
@@ -227,17 +234,74 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(454, 23);
+            this.label7.Location = new System.Drawing.Point(445, 23);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(56, 13);
             this.label7.TabIndex = 19;
             this.label7.Text = "Danh mục";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
+            // 
+            // tvDanhMuc
+            // 
+            this.tvDanhMuc.Location = new System.Drawing.Point(448, 201);
+            this.tvDanhMuc.Name = "tvDanhMuc";
+            this.tvDanhMuc.Size = new System.Drawing.Size(256, 200);
+            this.tvDanhMuc.TabIndex = 20;
+            this.tvDanhMuc.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.tvDanhMuc_AfterSelect);
+            // 
+            // cmsTree
+            // 
+            this.cmsTree.Name = "cmsTree";
+            this.cmsTree.Size = new System.Drawing.Size(61, 4);
+            this.cmsTree.Opening += new System.ComponentModel.CancelEventHandler(this.cmsTree_Opening);
+            // 
+            // cboDanhMuc
+            // 
+            this.cboDanhMuc.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cboDanhMuc.FormattingEnabled = true;
+            this.cboDanhMuc.Location = new System.Drawing.Point(507, 21);
+            this.cboDanhMuc.Name = "cboDanhMuc";
+            this.cboDanhMuc.Size = new System.Drawing.Size(142, 21);
+            this.cboDanhMuc.TabIndex = 22;
+            this.cboDanhMuc.SelectedIndexChanged += new System.EventHandler(this.cboDanhMuc_SelectedIndexChanged);
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(17, 169);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(187, 13);
+            this.label8.TabIndex = 23;
+            this.label8.Text = "Danh sách Sản phẩm (DataGridView):";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(448, 169);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(188, 13);
+            this.label9.TabIndex = 24;
+            this.label9.Text = "Cây Danh mục & Sản phẩm (TreeView):";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(448, 408);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(256, 13);
+            this.label10.TabIndex = 25;
+            this.label10.Text = "(Chuột phải vào TreeView để Thêm/Sửa/Xóa Node)";
             // 
             // frmSanPham
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(710, 400);
+            this.ClientSize = new System.Drawing.Size(719, 481);
+            this.Controls.Add(this.label10);
+            this.Controls.Add(this.label9);
+            this.Controls.Add(this.label8);
+            this.Controls.Add(this.cboDanhMuc);
+            this.Controls.Add(this.tvDanhMuc);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.lblTongTien);
             this.Controls.Add(this.dgvSanPham);
@@ -260,6 +324,7 @@
             this.Controls.Add(this.label1);
             this.Name = "frmSanPham";
             this.Text = "Quản lý Sản phẩm - DataGridView & 3 Lớp";
+            this.Load += new System.EventHandler(this.frmSanPham_Load_1);
             ((System.ComponentModel.ISupportInitialize)(this.dgvSanPham)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -288,6 +353,12 @@
         private System.Windows.Forms.DataGridView dgvSanPham;
         private System.Windows.Forms.Label lblTongTien;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.TreeView tvDanhMuc;
+        private System.Windows.Forms.ContextMenuStrip cmsTree;
+        private System.Windows.Forms.ComboBox cboDanhMuc;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label10;
     }
 }
 

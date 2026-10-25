@@ -39,7 +39,6 @@ namespace Lab06_ThreeLayerMemory.BUS
             if (string.IsNullOrWhiteSpace(maSP))
                 throw new ArgumentException("Mã sản phẩm không hợp lệ!");
 
-            // Đã sửa tên tham số gọi hàm Delete đúng chuẩn maSP
             _dal.Delete(maSP);
         }
 
@@ -50,7 +49,9 @@ namespace Lab06_ThreeLayerMemory.BUS
 
             string kw = keyword.ToLower().Trim();
             return _dal.GetAll()
-                       .Where(x => x.MaSP.ToLower().Contains(kw) || x.TenSP.ToLower().Contains(kw))
+                       .Where(x => x.MaSP.ToLower().Contains(kw)
+                                || x.TenSP.ToLower().Contains(kw)
+                                || (x.TenDanhMuc != null && x.TenDanhMuc.ToLower().Contains(kw)))
                        .ToList();
         }
 

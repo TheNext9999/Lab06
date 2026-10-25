@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|d:\\bt classroom lab\\lab06\\lab06_threelayermemory6to10\\lab06_threelayermemory\\bus\\sanphambus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|solutionrelative:lab06_threelayermemory\\bus\\sanphambus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|d:\\bt classroom lab\\lab06\\lab06_threelayermemory6to10\\lab06_threelayermemory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|solutionrelative:lab06_threelayermemory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|d:\\bt classroom lab\\lab06\\lab06_threelayermemory6to10\\lab06_threelayermemory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|solutionrelative:lab06_threelayermemory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\lab06_threelayermemory\\bus\\danhmucbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|solutionrelative:lab06_threelayermemory\\bus\\danhmucbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|d:\\bt classroom lab\\lab06\\lab06_threelayermemory6to10\\lab06_threelayermemory\\dto\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\lab06_threelayermemory\\dal\\danhmucdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|solutionrelative:lab06_threelayermemory\\dal\\danhmucdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\lab06_threelayermemory\\dto\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|solutionrelative:lab06_threelayermemory\\dto\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\lab06_threelayermemory\\bus\\sanphambus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|solutionrelative:lab06_threelayermemory\\bus\\sanphambus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\lab06_threelayermemory\\dal\\sanphamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|solutionrelative:lab06_threelayermemory\\dal\\sanphamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\lab06_threelayermemory\\dto\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|solutionrelative:lab06_threelayermemory\\dto\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|d:\\bt classroom lab\\lab06\\lab06_threelayermemory6to10\\lab06_threelayermemory\\dal\\sanphamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|solutionrelative:lab06_threelayermemory\\dal\\sanphamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\lab06_threelayermemory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F2A73AB-9683-4E8F-8202-98AE16D7B90E}|Lab06_ThreeLayerMemory\\Lab06_ThreeLayerMemory.csproj|solutionrelative:lab06_threelayermemory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +42,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DanhMucBUS.cs",
+              "DocumentMoniker": "D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\Lab06_ThreeLayerMemory\\BUS\\DanhMucBUS.cs",
+              "RelativeDocumentMoniker": "Lab06_ThreeLayerMemory\\BUS\\DanhMucBUS.cs",
+              "ToolTip": "D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\Lab06_ThreeLayerMemory\\BUS\\DanhMucBUS.cs",
+              "RelativeToolTip": "Lab06_ThreeLayerMemory\\BUS\\DanhMucBUS.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T13:39:36.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DanhMucDAL.cs",
+              "DocumentMoniker": "D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\Lab06_ThreeLayerMemory\\DAL\\DanhMucDAL.cs",
+              "RelativeDocumentMoniker": "Lab06_ThreeLayerMemory\\DAL\\DanhMucDAL.cs",
+              "ToolTip": "D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\Lab06_ThreeLayerMemory\\DAL\\DanhMucDAL.cs",
+              "RelativeToolTip": "Lab06_ThreeLayerMemory\\DAL\\DanhMucDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T13:39:20.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DanhMuc.cs",
+              "DocumentMoniker": "D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\Lab06_ThreeLayerMemory\\DTO\\DanhMuc.cs",
+              "RelativeDocumentMoniker": "Lab06_ThreeLayerMemory\\DTO\\DanhMuc.cs",
+              "ToolTip": "D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\Lab06_ThreeLayerMemory\\DTO\\DanhMuc.cs",
+              "RelativeToolTip": "Lab06_ThreeLayerMemory\\DTO\\DanhMuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T13:38:56.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\Lab06_ThreeLayerMemory\\Form1.cs",
               "RelativeDocumentMoniker": "Lab06_ThreeLayerMemory\\Form1.cs",
               "ToolTip": "D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\Lab06_ThreeLayerMemory\\Form1.cs",
               "RelativeToolTip": "Lab06_ThreeLayerMemory\\Form1.cs",
-              "ViewState": "AgIAALMAAAAAAAAAAAAiwMAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJgBAAAAAAAAAAAYwLEBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-24T10:35:56.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\Lab06_ThreeLayerMemory\\Form1.cs",
               "RelativeDocumentMoniker": "Lab06_ThreeLayerMemory\\Form1.cs",
               "ToolTip": "D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\Lab06_ThreeLayerMemory\\Form1.cs [Design]",
               "RelativeToolTip": "Lab06_ThreeLayerMemory\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T10:22:57.679Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-10-24T10:22:57.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "SanPhamBUS.cs",
               "DocumentMoniker": "D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\Lab06_ThreeLayerMemory\\BUS\\SanPhamBUS.cs",
               "RelativeDocumentMoniker": "Lab06_ThreeLayerMemory\\BUS\\SanPhamBUS.cs",
               "ToolTip": "D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\Lab06_ThreeLayerMemory\\BUS\\SanPhamBUS.cs",
               "RelativeToolTip": "Lab06_ThreeLayerMemory\\BUS\\SanPhamBUS.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAiwDMAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwE4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T10:26:19.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-24T10:26:19.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SanPhamDAL.cs",
               "DocumentMoniker": "D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\Lab06_ThreeLayerMemory\\DAL\\SanPhamDAL.cs",
               "RelativeDocumentMoniker": "Lab06_ThreeLayerMemory\\DAL\\SanPhamDAL.cs",
               "ToolTip": "D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\Lab06_ThreeLayerMemory\\DAL\\SanPhamDAL.cs",
               "RelativeToolTip": "Lab06_ThreeLayerMemory\\DAL\\SanPhamDAL.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAiwCgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwCkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T10:25:44.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-24T10:25:44.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "SanPham.cs",
               "DocumentMoniker": "D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\Lab06_ThreeLayerMemory\\DTO\\SanPham.cs",
               "RelativeDocumentMoniker": "Lab06_ThreeLayerMemory\\DTO\\SanPham.cs",
               "ToolTip": "D:\\BT Classroom Lab\\Lab06\\Lab06_ThreeLayerMemory6to10\\Lab06_ThreeLayerMemory\\DTO\\SanPham.cs",
               "RelativeToolTip": "Lab06_ThreeLayerMemory\\DTO\\SanPham.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T10:25:06.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-24T10:25:06.546Z"
             }
           ]
         }

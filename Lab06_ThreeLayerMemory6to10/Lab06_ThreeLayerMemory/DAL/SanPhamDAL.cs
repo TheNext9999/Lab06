@@ -26,6 +26,7 @@ namespace Lab06_ThreeLayerMemory.DAL
                 item.TenSP = sp.TenSP;
                 item.DonGia = sp.DonGia;
                 item.SoLuong = sp.SoLuong;
+                item.TenDanhMuc = sp.TenDanhMuc; // Bổ sung cập nhật Tên Danh mục
             }
         }
 

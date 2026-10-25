@@ -45,6 +45,7 @@
             this.listView1 = new System.Windows.Forms.ListView();
             this.lblTreeView = new System.Windows.Forms.Label();
             this.tvKhoa = new System.Windows.Forms.TreeView();
+            this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvSinhVien)).BeginInit();
             this.SuspendLayout();
             // 
@@ -207,11 +208,22 @@
             this.tvKhoa.TabIndex = 17;
             this.tvKhoa.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.tvKhoa_AfterSelect);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(14, 480);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(394, 13);
+            this.label1.TabIndex = 18;
+            this.label1.Text = "Chú thích biểu tượng: 🟢 Giỏi (>= 8.0)  |  🔵 Khá (6.5 - 7.9)  |  🟠 Trung bình (" +
+    "< 6.5)";
+            // 
             // frmDanhSach
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(812, 487);
+            this.ClientSize = new System.Drawing.Size(812, 505);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.tvKhoa);
             this.Controls.Add(this.lblTreeView);
             this.Controls.Add(this.listView1);
@@ -257,6 +269,7 @@
         private System.Windows.Forms.ListView listView1;
         private System.Windows.Forms.Label lblTreeView;
         private System.Windows.Forms.TreeView tvKhoa;
+        private System.Windows.Forms.Label label1;
     }
 }
 
