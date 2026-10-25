@@ -1,0 +1,10 @@
+D:\BT Classroom Lab\Lab06\Lab06_ThreeLayerMemory6to10\Lab06_ThreeLayerMemory\obj\Debug\Lab06_ThreeLayerMemory.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab06\Lab06_ThreeLayerMemory6to10\Lab06_ThreeLayerMemory\obj\Debug\Lab06_ThreeLayerMemory.frmSanPham.resources
+D:\BT Classroom Lab\Lab06\Lab06_ThreeLayerMemory6to10\Lab06_ThreeLayerMemory\obj\Debug\Lab06_ThreeLayerMemory.Properties.Resources.resources
+D:\BT Classroom Lab\Lab06\Lab06_ThreeLayerMemory6to10\Lab06_ThreeLayerMemory\obj\Debug\Lab06_ThreeLayerMemory.csproj.GenerateResource.cache
+D:\BT Classroom Lab\Lab06\Lab06_ThreeLayerMemory6to10\Lab06_ThreeLayerMemory\obj\Debug\Lab06_ThreeLayerMemory.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab06\Lab06_ThreeLayerMemory6to10\Lab06_ThreeLayerMemory\bin\Debug\Lab06_ThreeLayerMemory.exe.config
+D:\BT Classroom Lab\Lab06\Lab06_ThreeLayerMemory6to10\Lab06_ThreeLayerMemory\bin\Debug\Lab06_ThreeLayerMemory.exe
+D:\BT Classroom Lab\Lab06\Lab06_ThreeLayerMemory6to10\Lab06_ThreeLayerMemory\bin\Debug\Lab06_ThreeLayerMemory.pdb
+D:\BT Classroom Lab\Lab06\Lab06_ThreeLayerMemory6to10\Lab06_ThreeLayerMemory\obj\Debug\Lab06_ThreeLayerMemory.exe
+D:\BT Classroom Lab\Lab06\Lab06_ThreeLayerMemory6to10\Lab06_ThreeLayerMemory\obj\Debug\Lab06_ThreeLayerMemory.pdb
